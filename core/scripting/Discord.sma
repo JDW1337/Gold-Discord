@@ -1,8 +1,3 @@
-/*
-    На создание и поддержку плагинов
-    Qiwi: qiwi.com/n/RANCH1337
-    Яндекс: 4100111740474892
-*/
 #include <amxmodx>
 #include <grip>
 #include <discord>
